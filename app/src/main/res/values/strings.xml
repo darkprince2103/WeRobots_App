@@ -1,0 +1,130 @@
+<resources>
+
+    <string name="twTiAufg0">Mission 00: Equipment Inspection</string>
+    <string name="twTiAufg1">Mission 01: 3D Cinema</string>
+    <string name="twTiAufg2">Mission 02: Theater Scene Change</string>
+    <string name="twTiAufg3">Mission 03: Immersive Experience</string>
+    <string name="twTiAufg4">Mission 04: Masterpiece</string>
+    <string name="twTiAufg5">Mission 05: Augmented Reality Statue</string>
+    <string name="twTiAufg6">Mission 06: Concert Light and Sounds</string>
+    <string name="twTiAufg7">Mission 07: Hologram Performer</string>
+    <string name="twTiAufg8">Mission 08: Rolling Camera</string>
+    <string name="twTiAufg9">Mission 09: Movie Set</string>
+    <string name="twTiAufg10">Mission 10: Sound Mixer</string>
+    <string name="twTiAufg11">Mission 11: Light Show</string>
+    <string name="twTiAufg12">Mission 12: Virtual Reality Artist</string>
+    <string name="twTiAufg13">Mission 13: Craft Creator</string>
+    <string name="twTiAufg14">Mission 14: Audience Delivery</string>
+    <string name="twTiAufg15">Mission 15: Expert Delivery</string>
+    <string name="twTiAufg16">Mission 16: Precision Tokens</string>
+
+    <string name="cb1Aufg0">robot and all equipment fit completely in one launch area and are under a height limit of 12 in (305 mm)</string>
+
+    <string name="cb1Aufg1">small red beam is completely to the right of the black frame</string>
+
+    <string name="tw1Aufg2">own scene:</string>
+    <string name="tw2Aufg2">opponent scene:</string>
+    <string name="cb1Aufg2">blue</string>
+    <string name="cb2Aufg2">pink</string>
+    <string name="cb3Aufg2">orange</string>
+
+    <string name="cb1Aufg3">three immersive experience screens are raised</string>
+
+    <string name="cb1Aufg4">art piece is at least partly in the museum target area</string>
+    <string name="cb2Aufg4">art piece ist completely supported by the pedestal</string>
+
+    <string name="cb1Aufg5">augmented reality statue\'s orange lever is rotated completely to the right</string>
+
+    <string name="cb1Aufg6">light\'s orange lever is rotated completely downwards</string>
+    <string name="cb2Aufg6">speaker\'s orange lever is rotated completely to the left</string>
+
+    <string name="cb1Aufg7">hologram performer\'s orange push activator is completely past the black stage set line</string>
+
+    <string name="cb1Aufg8">white pointer is left of dark blue, but right of medium and light blue</string>
+    <string name="cb2Aufg8">white pointer is left of dark and medium blue, but right of light blue</string>
+    <string name="cb3Aufg8">white pointer is left of dark, medium, and light blue</string>
+
+    <string name="cb1Aufg9">boat is touching the mat and is completely past the black scene line</string>
+    <string name="cb2Aufg9">camera is touching the mat and is at least partly in the camera target area</string>
+
+    <string name="tw1Aufg10">count of raised sliders:</string>
+
+    <string name="cb1Aufg11">white point is within zone yellow</string>
+    <string name="cb2Aufg11">white point is within zone green</string>
+    <string name="cb3Aufg11">white point is within zone blue</string>
+
+    <string name="cb1Aufg12">chicken is intact and has moved from its starting position</string>
+    <string name="cb2Aufg12">chicken is over or completely past the lavender dot</string>
+
+    <string name="cb1Aufg13">craft machine\'s orange and white lid is completely open</string>
+    <string name="cb2Aufg13">craft machine\'s light pink latch is pointing straight down</string>
+
+    <string name="tw1Aufg14">count of audience members completely in a target destination:</string>
+    <string name="tw2Aufg14">count of target destinations with at least one audience member completely in it:</string>
+
+    <string name="tw1Aufg15">count of experts at least partly in their target destinations:</string>
+
+    <string name="tw1Aufg16">count of remaining precision tokens:</string>
+
+    <string name="menu2title">Saved runs</string>
+
+    <string name="delete">clear inputs</string>
+    <string name="language">change language</string>
+    <string name="save">save run</string>
+    <string name="statistics">Statistics</string>
+    <string name="counter">Point counter</string>
+    <string name="delete2">clear saved runs</string>
+    <string name="goBack">Go back</string>
+
+    <string name="titleWarning">Really clear all?</string>
+    <string name="messageWarning">Do you really want to clear all your saved runs?</string>
+    <string name="positiveWarning">Yes</string>
+    <string name="negativeWarning">No</string>
+
+    <string name="titleWarningSingleItem">Really delete this run?</string>
+    <string name="messageWarningSingleItem">Do you really want to clear this saved run?</string>
+
+    <string name="titleWarningAktuell">Really delete current run?</string>
+    <string name="messageWarningAktuell">Do you really want to clear the current run?</string>
+
+    <string name="ToastSaved">Successfully saved current run!</string>
+
+    <string name="app_name">FLL Masterpiece Score Calculator_beta</string>
+    <string name="pfeil_runter" translatable="false">↓</string>
+    <string name="pfeil_hoch" translatable="false">↑</string>
+    <string-array name="Aufgabe10">
+        <item>ㅤㅤ0ㅤㅤ</item>
+        <item>ㅤㅤ1ㅤㅤ</item>
+        <item>ㅤㅤ2ㅤㅤ</item>
+        <item>ㅤㅤ3ㅤㅤ</item>
+    </string-array>
+    <string-array name="Aufgabe14">
+        <item>ㅤㅤ0ㅤㅤ</item>
+        <item>ㅤㅤ1ㅤㅤ</item>
+        <item>ㅤㅤ2ㅤㅤ</item>
+        <item>ㅤㅤ3ㅤㅤ</item>
+        <item>ㅤㅤ4ㅤㅤ</item>
+        <item>ㅤㅤ5ㅤㅤ</item>
+        <item>ㅤㅤ6ㅤㅤ</item>
+        <item>ㅤㅤ7ㅤㅤ</item>
+    </string-array>
+    <string-array name="Aufgabe15">
+        <item>ㅤㅤ0ㅤㅤ</item>
+        <item>ㅤㅤ1ㅤㅤ</item>
+        <item>ㅤㅤ2ㅤㅤ</item>
+        <item>ㅤㅤ3ㅤㅤ</item>
+        <item>ㅤㅤ4ㅤㅤ</item>
+        <item>ㅤㅤ5ㅤㅤ</item>
+    </string-array>
+    <string-array name="Aufgabe16">
+        <item>ㅤㅤ6ㅤㅤ</item>
+        <item>ㅤㅤ5ㅤㅤ</item>
+        <item>ㅤㅤ4ㅤㅤ</item>
+        <item>ㅤㅤ3ㅤㅤ</item>
+        <item>ㅤㅤ2ㅤㅤ</item>
+        <item>ㅤㅤ1ㅤㅤ</item>
+        <item>ㅤㅤ0ㅤㅤ</item>
+    </string-array>
+    <string name="btShowSavedRun">Solved Missions</string>
+    <string name="btDeleteSavedRun">Delete Run</string>
+</resources>

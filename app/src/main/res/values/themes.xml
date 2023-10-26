@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Punktezaehler_Auswertung" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.Punktezaehler_Auswertung" parent="Base.Theme.Punktezaehler_Auswertung" />
+
+    <style name="AppTheme" parent="Theme.Punktezaehler_Auswertung">
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerItemStyle</item>
+        <item name="android:alertDialogStyle">@style/AlertDialogItemStyle</item>
+    </style>
+
+    <style name="SpinnerItemStyle">
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:background">@color/darkgrey</item>
+    </style>
+
+    <style name="AlertDialogItemStyle">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">@color/orange</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <!-- Used for the background -->
+        <item name="android:background">@color/darkgrey</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>

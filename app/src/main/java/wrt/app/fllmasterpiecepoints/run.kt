@@ -1,0 +1,30 @@
+package wrt.app.fllmasterpiecepoints
+
+data class run (
+    val points: Int,
+    val time: String,
+    val a00: Boolean,
+    val a01: Boolean,
+    val a02e: Int,
+    val a02g: Int,
+    val a03: Boolean,
+    val a041: Boolean,
+    val a042: Boolean,
+    val a05: Boolean,
+    val a061: Boolean,
+    val a062: Boolean,
+    val a07: Boolean,
+    val a08: Int,
+    val a091: Boolean,
+    val a092: Boolean,
+    val a10: Int,
+    val a11: Int,
+    val a121: Boolean,
+    val a122: Boolean,
+    val a131: Boolean,
+    val a132: Boolean,
+    val a141: Int,
+    val a142: Int,
+    val a15: Int,
+    val a16: Int
+)
